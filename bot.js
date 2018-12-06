@@ -9,7 +9,7 @@ const spammer7 = new Discord.Client();
 const spammer8 = new Discord.Client();
 const spammer9 = new Discord.Client();
   const server = "520146445257408513";
-  const channel = "520146533837176845";
+  const channel = "520146445257408515";
 const prefix = "!!"
 spammer1.on('ready', () => {
     console.log(`Logged in as ${spammer1.user.tag}!`);
